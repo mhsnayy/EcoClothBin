@@ -13,8 +13,8 @@ EcoClothBin, şehirlerdeki kıyafet bağış süreçlerini dijitalleştirmek ve 
 ---
 
 ## Takım Bilgileri - EcoVision  
-🏆 *Teknofest KKTC 2025* yarışması için *ön değerlendirme başvurumuzu gönderdik!*  
-🎯 *TÜBİTAK 2209-B - Üniversite Öğrencileri Sanayiye Yönelik Araştırma Projeleri Desteği Programı* için başvurumuzu yaptık ve sonuçları *22 Mart 2025’te bekliyoruz!*  
+🏆 *Teknofest KKTC 2025* yarışması Yarı Finalist*  
+🎯 *TÜBİTAK 2209-B - Üniversite Öğrencileri Sanayiye Yönelik Araştırma Projeleri Desteği Programı* için kabul aldık.*  
 
 ### Ekip Üyeleri:  
 👨‍💻 *Ömer Tekin Yavuz* - Proje Yöneticisi & Sistem Tasarımı  
